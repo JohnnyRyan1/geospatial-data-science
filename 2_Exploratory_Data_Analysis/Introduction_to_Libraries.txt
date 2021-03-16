@@ -1,0 +1,15 @@
+Introduction to modules
+
+numpy
+pandas
+geopandas
+xarray
+scikit-learn
+matplotlib
+
+Explore both the ERA5 climate data and USGS discharge data
+
+Resampling daily and monthly means (e.g. mean air temperature in July)
+Some viz (plt.imshow and plt.plot)
+
+

@@ -1,0 +1,21 @@
+Machine learning
+
+# Feature engineering
+
+# Feature reduction
+
+# Model evaluation
+    
+# Feature importance
+
+# Hyperparameter tuning
+
+
+# Types of models
+
+Neural Nets
+Decision trees
+Gradient boosting
+Supper vector machines
+
+# Overfitting
