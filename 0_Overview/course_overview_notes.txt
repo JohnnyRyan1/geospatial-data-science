@@ -1,0 +1,112 @@
+Course overview
+
+10-weeks, 2 classes per week, 1 mid-term exam with last two classes dedicated to group project presentations.
+Project-based
+All the ideas are in this course are firmly grounded in and inspired from real-world geospatial data.
+
+## Foundations ##
+
+#1 Introduction to "Geospatial" Data Science
+    - what is it
+    - why is it useful
+    - what you will (not) learn in this course
+    - overview of course structure
+    - learning outcomes/goals including examples
+
+#2 Software foundations
+    - Python refresher
+    - setting up a development environment
+    - standard libraries (e.g. numpy, pandas, scipy, matplotlib)
+    - basic reading, writing and manipulating data
+    - plotting/visualization
+
+#3 Data curation and management
+    - version control in GitHub
+    - reproducible code
+    - documentation
+
+#4 Exploring point spatial data
+    - GRaND Dam Database
+    - introduction to geospatial libraries (e.g. pandas, geopandas)
+    - reading, writing and manipulating vector data
+    - missing data, cleaning data
+    - plotting (e.g. matplotlib)
+
+#5 Exploring polylines/polygons spatial data
+    - introduction  to OSM
+    - reading, writing and manipulating vector data (e.g. geometry stuff like intersections, buffers)
+    - plotting maps (e.g. matplotlib, cartopy)
+    - most remote place in Oregon/USA, county level stats
+
+#6 Exploring gridded spatial data
+    - ERA5 climate reanalysis
+    - introduction to geospatial libraries (e.g. rasterio, xarray, pyresample, netcdf4)
+    - reading, writing and manipulating raster data (e.g. resampling climate data, interpolating?)
+    - combine with shapefile of USA states
+    - plotting maps (e.g. cartopy)
+    - climate stats for Oregon/USA, which state has largest temperature swings, hottest?
+
+## Machine learning principles ##
+   
+#7 Introduction to algorithms I
+    - supervised vs. unsupervised learning (e.g. scikit-learn)
+    - training vs. testing
+    - parsimony, bias/variance tradeoff, loss functions
+    - classification(e.g. decision trees)
+
+#8 Introduction to algorithms II
+    - regression (e.g. svm, random forests)
+    - clustering (e.g. Kmeans)
+
+#9 Model evaluation
+    - performance metrics
+    - cross-validation
+
+#10 Data transformation I
+    - feature engineering
+    - feature selection (low variance, random forest, backward- and forward- feature selection)
+    - lots of plotting
+
+#11 Data transformation II
+    - more advanced feature reduction (e.g. PCA)
+    - lots of plotting
+    - elbow-method
+
+#12 Underfitting/overfitting
+
+## Advanced machine learning ##
+
+#13 Neural networks
+
+#14 Hyperparameter tuning
+
+#15 Regularization
+
+#16 Ensemble methods
+    - boosting, bagging, and model averaging
+
+## Extra ##
+
+#XX Data access (for group projects)
+    - web scraping (e.g. USGS gauge data)
+
+#XX Professional development
+    - CV
+    - open-source projects
+
+#XX Databases?
+
+#XX Scaling for big data
+
+#19 Group presentations
+
+#20 Group presentations
+
+* Computational and statistical thinking /
+* Mathematical foundations x
+* Model building and assessment /
+* Algorithms and software foundation /
+* Data curation /
+* Knowledge transference—communication and responsibility / 
+
+

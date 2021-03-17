@@ -43,7 +43,7 @@ For more depth, you can read my [detailed intstructions for installing python](h
 This repository includes an [environment file](https://github.com/JohnnyRyan1/geospatial_data_science/blob/environment.yml) which you can use to set up your python environment. To install this environment, type the following
 
 ```bash
-cd intro_to_physical_oceanography
+cd geospatial_data_science
 conda env create -f environment.yml
 ```
 
@@ -97,8 +97,7 @@ provides the tools to do almost anything you can imagine.
 python, chances are someone is working on it. The world is changing: data is
 exploding, computers architecture is evolving, and new forms of analysis and
 visualization are being invented. Python is evolving too, and it evolves based
-on what the community needs. The new tool I am most excited about is
-[xray](http://continuum.io/blog/xray-dask).
+on what the community needs.
 
 1. __Python is at home on the web__. The [Jupyter project](https://jupyter.org/)
 grew out of the python community and is revolutionizing the way we do science
