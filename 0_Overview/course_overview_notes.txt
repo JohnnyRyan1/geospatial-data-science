@@ -25,26 +25,26 @@ All the ideas are in this course are firmly grounded in and inspired from real-w
     - reproducible code
     - documentation
 
-#4 Exploring point spatial data
+#4 Exploring spatial data I
     - GRaND Dam Database
     - introduction to geospatial libraries (e.g. pandas, geopandas)
     - reading, writing and manipulating vector data
     - missing data, cleaning data
     - plotting (e.g. matplotlib)
 
-#5 Exploring polylines/polygons spatial data
-    - introduction  to OSM
+#5 Exploring spatial data II
+    - introduction to OSM
     - reading, writing and manipulating vector data (e.g. geometry stuff like intersections, buffers)
     - plotting maps (e.g. matplotlib, cartopy)
     - most remote place in Oregon/USA, county level stats
 
-#6 Exploring gridded spatial data
+#6 Exploring spatial data III
     - ERA5 climate reanalysis
     - introduction to geospatial libraries (e.g. rasterio, xarray, pyresample, netcdf4)
     - reading, writing and manipulating raster data (e.g. resampling climate data, interpolating?)
     - combine with shapefile of USA states
     - plotting maps (e.g. cartopy)
-    - climate stats for Oregon/USA, which state has largest temperature swings, hottest?
+    - climate stats for USA, which state has largest temperature swings, hottest?
 
 ## Machine learning principles ##
    
@@ -98,10 +98,14 @@ All the ideas are in this course are firmly grounded in and inspired from real-w
 
 #XX Scaling for big data
 
+## Group presentations ##
+
 #19 Group presentations
+    - Provided as GitHub repo
 
 #20 Group presentations
 
+## Learning outcomes ##
 * Computational and statistical thinking /
 * Mathematical foundations x
 * Model building and assessment /

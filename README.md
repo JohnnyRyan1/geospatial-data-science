@@ -65,6 +65,10 @@ When you are done working with the notebooks, close the notebook app and, if you
 source deactivate
 ```
 
+## Useful resources ##
+
+* https://automating-gis-processes.github.io/site/course-info/course-info.html
+
 ## Why Python ##
 
 A great deal has been written on [this subject](http://cyrille.rossant.net/why-using-python-for-scientific-computing/).
