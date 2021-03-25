@@ -1,8 +1,11 @@
 Course overview
 
 10-weeks, 2 classes per week, 1 mid-term exam with last two classes dedicated to group project presentations.
-Project-based
+This is a project-based course
 All the ideas are in this course are firmly grounded in and inspired from real-world geospatial data.
+I will use a number of cookbooks and examples to demonstrate different aspects of geospatial data analysis
+It will not be comprehensive e.g. not every 
+Learn by doing
 
 ## Foundations ##
 
@@ -26,15 +29,16 @@ All the ideas are in this course are firmly grounded in and inspired from real-w
     - documentation
 
 #4 Exploring spatial data I
-    - GRaND Dam Database
+    - GRaND Dam Database + US states
     - introduction to geospatial libraries (e.g. pandas, geopandas)
     - reading, writing and manipulating vector data
+    - geometry stuff like intersections, buffers etc. e.g. sjoin
     - missing data, cleaning data
     - plotting (e.g. matplotlib)
 
 #5 Exploring spatial data II
-    - introduction to OSM
-    - reading, writing and manipulating vector data (e.g. geometry stuff like intersections, buffers)
+    - introduction to osmnx, networkx
+    - travel times, nearest cafes, number of buildings
     - plotting maps (e.g. matplotlib, cartopy)
     - most remote place in Oregon/USA, county level stats
 
