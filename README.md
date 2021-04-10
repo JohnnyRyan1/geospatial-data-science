@@ -6,13 +6,13 @@ This repository contains course materials for GEOG490. The lecture notes are in 
 
 The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.
 
-### Foundations
+### Geospatial Analysis
 * 1: Course Overview
 * 2: Version Control
 * 3: Exploratory Data Analysis
 * 4: Intro to Machine Learning
 
-### Development
+### Machine Learning
 * Something
 * Something else
 
