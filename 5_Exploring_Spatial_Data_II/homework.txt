@@ -1,0 +1,5 @@
+Ask students to compute some Euclidean distances and network distances for some rural and urban addresses.
+
+Which are longer/shorter? How biased is Euclidean distance? Is it worse in rural areas?
+
+Are interstates more likely to intersect poor neighborhoods?
