@@ -7,7 +7,8 @@ Pull requests
 Documenting code
 
 Code presentation
-
+https://github.com/dslp/dslp
+https://drivendata.github.io/cookiecutter-data-science/
 https://utrechtuniversity.github.io/workshop-computational-reproducibility/
 
 
