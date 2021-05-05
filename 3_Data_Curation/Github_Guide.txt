@@ -2,8 +2,6 @@ Github Guide
 
 Mostly from https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
-personal access token: b209b5094c4f3895a254add47beebf5f9ab53259
-
 # Step 0: Install git and create a GitHub account 
 The first two things you'll want to do are install git and create a free GitHub account.
 
