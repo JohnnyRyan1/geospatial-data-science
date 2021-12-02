@@ -1,4 +1,4 @@
-name: geospatial_data_science
+name: geotools
 channels:
     - conda-forge
     - defaults

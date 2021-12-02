@@ -1,5 +1,7 @@
 Github Guide
 
+https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/
+
 Mostly from https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 # Step 0: Install git and create a GitHub account 

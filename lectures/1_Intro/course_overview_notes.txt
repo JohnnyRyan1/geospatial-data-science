@@ -29,6 +29,7 @@ Learn by doing
     - documentation
 
 #4 Exploring spatial data I
+    - Census data stuff
     - GRaND Dam Database + US states
     - introduction to geospatial libraries (e.g. pandas, geopandas)
     - reading, writing and manipulating vector data
@@ -37,7 +38,7 @@ Learn by doing
     - plotting (e.g. matplotlib)
 
 #5 Exploring spatial data II
-    - introduction to osmnx, networkx
+    - introduction to OSM, osmnx, networkx
     - travel times, nearest cafes, number of buildings
     - plotting maps (e.g. matplotlib, cartopy)
     - most remote place in Oregon/USA, county level stats
@@ -46,6 +47,7 @@ Learn by doing
     - ERA5 climate reanalysis
     - introduction to geospatial libraries (e.g. rasterio, xarray, pyresample, netcdf4)
     - reading, writing and manipulating raster data (e.g. resampling climate data, interpolating?)
+    - extracting data a point, or polygon
     - combine with shapefile of USA states
     - plotting maps (e.g. cartopy)
     - climate stats for USA, which state has largest temperature swings, hottest?
@@ -115,6 +117,14 @@ Learn by doing
 * Model building and assessment /
 * Algorithms and software foundation /
 * Data curation /
-* Knowledge transference—communication and responsibility / 
+* Knowledge transference—communication and responsibility /
+
+Understand basic concepts and techniques in data science and machine learning.
+Develop skills in building models from data using Python data science packages.
+Be able to identify which machine learning techniques are appropriate for analyzing different kinds of data.
+Understand how to evaluate predictive models and improve model performance.
+Gain experience applying algorithms to a real-world problem through an independent data science project.
+Be able to clearly communicate the results of a data science project in written report and (brief) oral presentation
+ 
 
 

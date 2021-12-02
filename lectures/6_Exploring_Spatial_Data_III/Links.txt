@@ -1,0 +1,5 @@
+Slides:
+https://docs.google.com/presentation/d/1OwBFs7CsMHOS5VJsY26PXWh3CccybQGPFQRjZ1FZbTk/edit#slide=id.gde4a768ed5_0_59
+
+Useful information
+https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/raster_data.html
