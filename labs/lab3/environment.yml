@@ -1,4 +1,4 @@
-name: lab2
+name: lab3
 channels:
     - conda-forge
     - defaults
