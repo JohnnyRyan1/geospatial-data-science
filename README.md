@@ -6,7 +6,14 @@ This repository contains course materials for GEOG490. <!--The lecture notes are
 
 <!-- The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.-->
 
-### Geospatial Analysis
+### Schedule
+
+| Week        | Day         | Date      | Lecture x 1 hour  | Lab x 2 hours        | Project     |
+| ----------- | ----------- |-----------|-------------------|----------------------|-------------|
+| Header      | Title       |           |                   |                      |             | 
+| Paragraph   | Text        |           |                   |                      |             |
+
+
 * 1: Course Overview
 * 2: Version Control
 * 3: Exploratory Data Analysis
