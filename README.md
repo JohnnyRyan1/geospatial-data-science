@@ -1,27 +1,30 @@
 # Geospatial Data Science #
 
-This repository contains course materials for GEOG490. <!--The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).-->
+Course materials for Geospatial Date Science (GEOG 4/590) taught at the Department of Geography, University of Oregon
+
+## Schedule
+
+| **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                     | **Project**      |
+| ----------- |------------|-----------------------|---------------------------------------|------------------|
+| 1           | Jan 3      |Introduction           |Getting started with Python and GitHub |                  | 
+| 2           | Jan 10     |Tables + vector data   |Census data + city stats               |                  | 
+| 3           | Jan 17     |Network data           |Walking distance                       |                  |
+| 4           | Jan 24     |Gridded data           |Land cover classification              |Submit project idea and outline| 
+| 5           | Jan 31     |Machine learning       |Predicting river discharge             |                  |
+| 6           | Feb 7      |Accessing data + web scraping     |Wildfire + air quality        |Project milestone #1           |
+| 7           | Feb 14     |Data management + version control |Pubic school redistricting    |                  |
+| 8           | Feb 21     |Missing data + feature selection  |Wind farm placement           |Project milestone #2           |
+| 9           | Feb 28     |Ethics and responsibility |No lab, work on project       |                               |
+| 10          | Mar 7      |Project presentations  |Project presentations                  |Project submission             |
+| ----------- |------------|-----------------------|---------------------------------------|------------------|
+
 
 ## View the lecture notes online ##
 
 <!-- The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.-->
 
-### Schedule
+<!--The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).-->
 
-| Week        | Day         | Date      | Lecture x 1 hour  | Lab x 2 hours        | Project     |
-| ----------- | ----------- |-----------|-------------------|----------------------|-------------|
-| Header      | Title       |           |                   |                      |             | 
-| Paragraph   | Text        |           |                   |                      |             |
-
-
-* 1: Course Overview
-* 2: Version Control
-* 3: Exploratory Data Analysis
-* 4: Intro to Machine Learning
-
-### Machine Learning
-* Something
-* Something else
 
 ## Run the lecture notes interactively ##
 
