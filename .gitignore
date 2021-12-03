@@ -5,3 +5,10 @@ labs/lab3/.ipynb_checkpoints
 labs/lab3/data
 labs/lab3/cache
 labs/lab3/.DS_Store
+.DS_Store
+*.pptx
+*.doc
+*.docx
+instructor-lecture-notes.txt
+instructor-lab-notes.txt
+github_guide.txt

@@ -1,1 +1,0 @@
-https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/vector_data.html
