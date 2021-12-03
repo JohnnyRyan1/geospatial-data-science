@@ -18,60 +18,50 @@ Course materials for Geospatial Date Science (GEOG 4/590) taught at the Departme
 | 10          | Mar 7      |Project presentations  |Project presentations                  |Project submission             |
 
 
+## Step 1: Download Anaconda
 
-## View the lecture notes online ##
+In order to execute the code in the notebooks, you will need to install a Python distribution with the necessary packages.
+
+The recommended way to do this is to install the [Anaconda](https://www.anaconda.com/download/) which uses the the [conda package management utility](https://conda.io/docs/).
+
+## Step 2: Clone this repository
+
+The best way to interact with the materials is to use [git](https://git-scm.com/) to [clone this repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository). If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+From the command line, run the command
+
+<code>git clone https://github.com/JohnnyRyan1/geospatial_data_science</code>
+
+Once you have the repository cloned, you can update it by running
+
+<code>git pull origin master</code>
 
 <!-- The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.-->
 
 <!--The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).-->
 
-
-## Run the lecture notes interactively ##
-
-The best way to get the materials (including homework) is the use [git](https://git-scm.com/) to [clone this repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository). If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-
-From the command line, run the command
-
-```bash
-git clone https://github.com/JohnnyRyan1/geospatial_data_science
-```
-
-Once you have the repository cloned, you can update it by running
-
-```bash
-git pull origin master
-```
-
-In order to execute the code in the notebooks, you need to have the necessary python packages installed.
-
-The recommended way to do this is to install the [anaconda python distribution](https://www.anaconda.com/download/) together with the [conda package management utility](https://conda.io/docs/).
-
-<!--For more depth, you can read my [detailed intstructions for installing python](https://rabernat.github.io/research_computing/python.html).-->
+## Step 3: Make a new environment
 
 Each lab includes an <code>environment file.yml</code> which can be used to set up your Python environment. To install the environment for Lab #1, type the following:
 
-```bash
-cd geospatial_data_science
-conda env create -f environment.yml
-```
+<code>cd geospatial_data_science</code>
+<code>conda env create -f environment.yml</code>
 
-This will create a new environment called `lab1`. To activate this environment, type
+This will create a new environment called **lab1**. To activate this environment, type
 
-```bash
-conda activate lab1
-```
+<code>conda activate lab1</code>
+
+<!--For more depth, you can read my [detailed intstructions for installing python](https://rabernat.github.io/research_computing/python.html).-->
+
+## Viewing the assignments
 
 The notebooks can be viewed and run using the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) application. To launch the notebook interface, type:
 
-```bash
-jupyter notebook
-```
+<code>jupyter notebook</code>
 
 When you are done working with the notebooks, close the notebook app and, if you wish, deactive the environment by typing:
 
-```bash
-conda deactivate
-```
+<code>conda deactivate</code>
 
 ## Useful resources ##
 
