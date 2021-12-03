@@ -1,10 +1,10 @@
 # Geospatial Data Science #
 
-This repository contains course materials for GEOG490. The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).
+This repository contains course materials for GEOG490. <!--The lecture notes are in the form of interactive [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html).-->
 
 ## View the lecture notes online ##
 
-The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.
+<!-- The links below will render the notebooks via the [nbviewer](http://nbviewer.jupyter.org/) service, which allows some of the fancy interactive graphics to be viewed online. If you browse directly to the notebooks on github, they may not show up properly. So please use these links.-->
 
 ### Geospatial Analysis
 * 1: Course Overview
@@ -26,50 +26,48 @@ From the command line, run the command
 git clone https://github.com/JohnnyRyan1/geospatial_data_science
 ```
 
-If you are not a fan of the command line, there are plent of [graphical interfaces to git](https://git-scm.com/download/gui/linux) available.
-
-Once you have the repository cloned, you can update it as new lectures come out by running
+Once you have the repository cloned, you can update it by running
 
 ```bash
 git pull origin master
 ```
 
-If for some reason you can't get git working, the alternative is to use the link to the right to "Download Zip". The disadvantage here is that you will have to re-download every time the repo is updated.
+In order to execute the code in the notebooks, you need to have the necessary python packages installed.
 
-In order to actually execute the code in the notebooks, you need to have the necessary python packages installed.
 The recommended way to do this is to install the [anaconda python distribution](https://www.anaconda.com/download/) together with the [conda package management utility](https://conda.io/docs/).
-For more depth, you can read my [detailed intstructions for installing python](https://rabernat.github.io/research_computing/python.html).
 
-This repository includes an [environment file](https://github.com/JohnnyRyan1/geospatial_data_science/blob/environment.yml) which you can use to set up your python environment. To install this environment, type the following
+<!--For more depth, you can read my [detailed intstructions for installing python](https://rabernat.github.io/research_computing/python.html).-->
+
+Each lab includes an <code>environment file.yml</code> which can be used to set up your Python environment. To install the environment for Lab #1, type the following:
 
 ```bash
 cd geospatial_data_science
 conda env create -f environment.yml
 ```
 
-This will create a new environment called `geospatial_data_science`. To activate this environment, type
+This will create a new environment called `lab1`. To activate this environment, type
 
 ```bash
-source activate geospatial_data_science
+conda activate lab1
 ```
 
-The notebooks can be viewed and run using the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) application. To launch the notebook interface, just type
+The notebooks can be viewed and run using the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) application. To launch the notebook interface, type:
 
 ```bash
 jupyter notebook
 ```
 
-When you are done working with the notebooks, close the notebook app and, if you wish, deactive the environment by typing
+When you are done working with the notebooks, close the notebook app and, if you wish, deactive the environment by typing:
 
 ```bash
-source deactivate
+conda deactivate
 ```
 
 ## Useful resources ##
 
 * https://automating-gis-processes.github.io/site/course-info/course-info.html
 
-## Why Python ##
+<!--## Why Python ##
 
 A great deal has been written on [this subject](http://cyrille.rossant.net/why-using-python-for-scientific-computing/).
 My reasons are summarized as follows.
@@ -107,4 +105,4 @@ on what the community needs.
 grew out of the python community and is revolutionizing the way we do science
 and communicate it with others. With Jupyter, I never have to leave my browser.
 [Nature agrees](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)
-that this is the future of scientific communication.
+that this is the future of scientific communication. -->
