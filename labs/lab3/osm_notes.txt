@@ -1,1 +1,0 @@
-https://github.com/gboeing/osmnx-examples/tree/master/notebooks

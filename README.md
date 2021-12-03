@@ -28,11 +28,11 @@ The recommended way to do this is to install the [Anaconda](https://www.anaconda
 
 The best way to interact with the materials is to use [git](https://git-scm.com/) to [clone this repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository). If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-From the command line, run the command
+From the command line, navigate to your course folder and run in a terminal:
 
 <code>git clone https://github.com/JohnnyRyan1/geospatial_data_science</code>
 
-Once you have the repository cloned, you can update it by running
+Once you have the repository cloned, you can update it by running:
 
 <code>git pull origin master</code>
 
@@ -42,9 +42,8 @@ Once you have the repository cloned, you can update it by running
 
 ## Step 3: Make a new environment
 
-Each lab includes an <code>environment file.yml</code> which can be used to set up your Python environment. To install the environment for Lab #1, type the following:
+Each lab includes an environment file (e.g. <code>environment.yml</code>) which can be used to set up your Python environment. Foe example, to install the conda environment for Lab #1, type the following in a terminal:
 
-<code>cd geospatial_data_science</code>
 <code>conda env create -f environment.yml</code>
 
 This will create a new environment called **lab1**. To activate this environment, type
@@ -53,7 +52,7 @@ This will create a new environment called **lab1**. To activate this environment
 
 <!--For more depth, you can read my [detailed intstructions for installing python](https://rabernat.github.io/research_computing/python.html).-->
 
-## Viewing the assignments
+## Step 4: Viewing the assignments
 
 The notebooks can be viewed and run using the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) application. To launch the notebook interface, type:
 
