@@ -1,4 +1,4 @@
-name: lab3
+name: lab4
 channels:
     - conda-forge
     - defaults
@@ -11,5 +11,5 @@ dependencies:
     - spyder        # Scientific development environment
     - shapely       # Vector formats
     - jupyter       # Interactive notebooks
-    - osmnx         # Retrieve street networks from OpenStreetMap
-    - networkx      # Network analysis
+    - rioxarray     # Geospatial xarray extension
+    - xarray        # N-D labeled arrays and datasets
