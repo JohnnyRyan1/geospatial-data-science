@@ -22,15 +22,10 @@ Course materials for Geospatial Date Science (GEOG 4/590) taught at the Departme
 
 The best way to interact with the course materials is to use [git](https://git-scm.com/) to <code>clone</code> the course repository. If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-Now navigate to where you keep your files for other classes and clone the [course repository](https://github.com/JohnnyRyan1/geospatial-data-science.git). This can be done from the command line by running:
+This can be done from the command line by running:
 
 <code>git clone https://github.com/JohnnyRyan1/geospatial_data_science</code>
 
 Once you have the repository cloned, you can update it by running:
 
 <code>git pull origin master</code>
-
-
-## Useful resources ##
-
-* https://automating-gis-processes.github.io/site/course-info/course-info.html
