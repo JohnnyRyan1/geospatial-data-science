@@ -17,10 +17,12 @@ instructor-lab-notes.txt
 github_guide.txt
 labs/lab4/instructor-notes.txt
 
+labs/lab1/.ipynb_checkpoints
 labs/lab2/.ipynb_checkpoints
 labs/lab3/.ipynb_checkpoints
 labs/lab4/.ipynb_checkpoints
 labs/lab5/.ipynb_checkpoints
+
 
 labs/lab4/data/landsat/stacked.tif
 

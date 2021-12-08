@@ -20,12 +20,16 @@ Course materials for Geospatial Date Science (GEOG 4/590) taught at the Departme
 
 ## Clone this repository
 
-The best way to interact with the course materials is to use [git](https://git-scm.com/) to <code>clone</code> the course repository. If you don't have git already on you computer, it is easy to install on all platforms following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-
-This can be done from the command line by running:
+The best way to interact with the course materials is to use [git](https://git-scm.com/) to <code>clone</code> the course repository. Git can be installed following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once it is installed, this repository can be cloned by running:
 
 <code>git clone https://github.com/JohnnyRyan1/geospatial_data_science</code>
 
-Once you have the repository cloned, you can update it by running:
+You can update the repository by running:
 
 <code>git pull origin master</code>
+
+All the slides, assignments, and lecture notes are available under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/). The terms of this license are:
+
+> This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, **so long as attribution is given to the creator**. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+
+So please use and adapt these materials as you see fit but consider providing attribution to Prof. Johnny Ryan with links to this repository.
