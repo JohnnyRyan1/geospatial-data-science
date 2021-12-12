@@ -24,8 +24,8 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | 3           | Jan 17     |Network data           |Walking distances                      |                               |
 | 4           | Jan 24     |Gridded data           |Remote sensing and climate reanalysis  |Submit project idea and outline| 
 | 5           | Jan 31     |Machine learning       |Land cover classification              |                               |
-| 6           | Feb 7      |Data management + version control |Predicting river discharge  |Project milestone #1           |
-| 7           | Feb 14     |Accessing data + web scraping     |GitHub collaboration/project work                           |
+| 6           | Feb 7      |Data management + version control |GitHub collaboration/project work  |Project milestone #1    |
+| 7           | Feb 14     |Accessing data + web scraping     |Predicting river discharge  |                               |
 | 8           | Feb 21     |Missing data + feature selection  |Wind farm placement or wildfire + air quality  |Project milestone #2   |
 | 9           | Feb 28     |Ethics and responsibility |No lab, work on project             |                               |
 | 10          | Mar 7      |Project presentations  |Project presentations                  |Project submission             |
@@ -48,4 +48,4 @@ So please use and adapt these materials as you see fit but consider providing at
 
 ## Acknowledgements
 
-When putting together this course I relied heavily on [David Shean's](https://dshean.github.io/) [Geospatial Data Analysis](https://github.com/UW-GDA) course and [Ryan Abernathey's](hhttps://ocean-transport.github.io/) [Earth and Environmental Data Science](https://github.com/earth-env-data-science/earth-env-data-science-book) course. 
+When putting together this course I relied heavily on [David Shean's](https://dshean.github.io/) [Geospatial Data Analysis](https://github.com/UW-GDA) course and [Ryan Abernathey's](https://ocean-transport.github.io/) [Earth and Environmental Data Science](https://github.com/earth-env-data-science/earth-env-data-science-book) course. 

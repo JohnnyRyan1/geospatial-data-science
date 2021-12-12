@@ -8,9 +8,9 @@ https://github.com/UW-GDA/gda_course_2021/blob/master/resources/conda.md
 Assignments and jupyter notebooks
 https://github.com/UW-GDA/gda_course_2021/blob/master/resources/jupyter_notes.md
 
-
 GitHub
 https://github.com/UW-GDA/gda_course_2021/blob/master/resources/github_notes.md
+https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/preliminary/github.md
 Recommend you apply for the free edu account upgrade (https://education.github.com/discount_requests/new), which will allow you to create unlimited number of private repos with unlimited collaborators.
 
 Slack
@@ -23,6 +23,13 @@ https://github.com/UW-GDA/gda_course_2021/blob/master/resources/qgis_notes.md
 Final projects
 https://github.com/UW-GDA/gda_course_2021/tree/master/resources/project
 https://icesat-2hackweek.github.io/learning-resources/projects/project_initialization/
+https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/projects/example_workflow.md
+
+Submitting assignments...pull requests
+https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/about/howtocontribute.md
+
+Hacking
+https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/projects/overview.md
 
 Lecture #2
 
@@ -31,7 +38,10 @@ https://swcarpentry.github.io/git-novice/guide/
 
 
 Lecture #6 Data management + version control
+Collaboration exercises
 Branching
 https://github.com/UW-GDA/gda_course_2021/tree/master/resources/project
 https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/
+https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/03.Git_and_GitHub/collaboration-exercise.ipynb
+https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/03.Git_and_GitHub/git-first-tasks.ipynb
 
