@@ -1,0 +1,37 @@
+Lecture #1
+
+Python
+
+Conda
+https://github.com/UW-GDA/gda_course_2021/blob/master/resources/conda.md
+
+Assignments and jupyter notebooks
+https://github.com/UW-GDA/gda_course_2021/blob/master/resources/jupyter_notes.md
+
+
+GitHub
+https://github.com/UW-GDA/gda_course_2021/blob/master/resources/github_notes.md
+Recommend you apply for the free edu account upgrade (https://education.github.com/discount_requests/new), which will allow you to create unlimited number of private repos with unlimited collaborators.
+
+Slack
+geospatialdat-xif4804.slack.com
+Discussing on Slack is not cheating
+
+QGIS
+https://github.com/UW-GDA/gda_course_2021/blob/master/resources/qgis_notes.md
+
+Final projects
+https://github.com/UW-GDA/gda_course_2021/tree/master/resources/project
+https://icesat-2hackweek.github.io/learning-resources/projects/project_initialization/
+
+Lecture #2
+
+Revisit GitHub + quiz based on: https://swcarpentry.github.io/git-novice/
+https://swcarpentry.github.io/git-novice/guide/
+
+
+Lecture #6 Data management + version control
+Branching
+https://github.com/UW-GDA/gda_course_2021/tree/master/resources/project
+https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/
+
