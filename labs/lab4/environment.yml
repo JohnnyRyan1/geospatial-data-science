@@ -13,3 +13,4 @@ dependencies:
     - jupyter       # Interactive notebooks
     - rioxarray     # Geospatial xarray extension
     - xarray        # N-D labeled arrays and datasets
+    - cdsapi        # API to access the Copernicus Climate Data Store at ECMWF
