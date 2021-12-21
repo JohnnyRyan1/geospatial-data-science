@@ -25,7 +25,7 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                     | **Project**                   |
 | ----------- |------------|-----------------------|---------------------------------------|-------------------------------|
 | 1           | Jan 3      |Introduction           |Getting started with Python and GitHub |                               | 
-| 2           | Jan 10     |Tables + vector data   |Census data               |                               | 
+| 2           | Jan 10     |Tables + vector data   |Wildfire and Census data               |                               | 
 | 3           | Jan 17     |Network data           |Walking distances                      |                               |
 | 4           | Jan 24     |Gridded data           |Remote sensing and climate reanalysis  |Submit project idea and outline| 
 | 5           | Jan 31     |Machine learning       |Three machine learning examples        |                               |
