@@ -34,11 +34,6 @@ points_ore = clip(df, ore)
 points_cal = clip(df, cal)
 points_was = clip(df, was)
 
-
-
-
-
-
-
-
+# Save to file
+points_ore.to_file('/Users/jryan4/Dropbox (University of Oregon)/Teaching/490_Geospatial_Data_Science_Applications/data_preparation/Wildfires/or_1992-2018.shp')
 
