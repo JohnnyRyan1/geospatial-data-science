@@ -22,22 +22,27 @@ Learning outcomes:
 The course will be taught over ten weeks, with a lecture on Monday and lab on Friday. The lectures will be interactive, often providing a recap of the previous lab. The labs will introduce key concepts of geospatial data analysis using code examples.
 
 
-| **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                     | **Project**                   |
-| ----------- |------------|-----------------------|---------------------------------------|-------------------------------|
-| 1           | Jan 3      |Introduction           |Getting started with Python and GitHub |                               | 
-| 2           | Jan 10     |Tables + vector data   |Wildfire and Census data               |                               | 
-| 3           | Jan 17     |Network data           |Walking distances                      |                               |
-| 4           | Jan 24     |Gridded data           |Remote sensing and climate reanalysis  |Submit project idea and outline| 
-| 5           | Jan 31     |Machine learning       |Three machine learning examples        |                               |
-| 6           | Feb 7      |Data management + version control |GitHub collaboration/project work  |Project milestone #1    |
-| 7           | Feb 14     |Accessing data + web scraping     |Wildland-urban interface + wildfires |                      |
-| 8           | Feb 21     |Missing data + feature selection  |Wind farm placement or wildfire + air quality  |Project milestone #2   |
-| 9           | Feb 28     |Ethics and responsibility |No lab, work on project             |                               |
-| 10          | Mar 7      |Project presentations  |Project presentations                  |Project submission             |
+| **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                      | **Project**                    |
+| ----------- |------------|-----------------------|----------------------------------------|--------------------------------|
+| 1           | Jan 3      | Introduction          | Getting started with Python and GitHub |                                | 
+| 2           | Jan 10     | Table data            | Wildfire and Census data               |                                | 
+| 3           | Jan 17     | Network data          | Walking distances                      |                                |
+| 4           | Jan 24     | Gridded data          | Remote sensing and climate reanalysis  |                                | 
+| 5           | Jan 31     | Machine learning      | Three machine learning examples        | Submit project ideas (Slack)   |
+| 6           | Feb 7      | Data/code management  | **Get started on project**             | Initialize project             |
+| 7           | Feb 14     | Data access           | Wildland-urban interface + wildfires   |                                |
+| 8           | Feb 21     | Missing data + feature selection  | **Project work**           | Project check-in               |
+| 9           | Feb 28     | Ethics and responsibility | Wind farm placement or wildfire + air quality |                     |                        
+| 10          | Mar 7      | Project presentations     | Project presentations              | Submit project write-up        |
 
 ## Final project
 
-An essential component of this course is the final project which provides an opportunity to explore a particular topic of interest using some of the skills developed in this course. Students can work independently or in groups of two or three. A short summary of a project idea is expected by Week 4. There will be a project check-in during the lab in Week 6 and 8, and the final project write-up and presentation will be due in Week 10.
+An essential component of this course is the final project which provides an opportunity to explore a particular topic of interest using some of the skills developed in this course. Students can work independently or in groups of two or three. 
+
+* Week 5: Discuss project ideas with peers and instructors, submit a short summary of a project idea on Slack. 
+* Week 6: Form teams, create GitHub repo, and provide some basic info about project as a `README.md`. 
+* Week 8: Provide informal update to instructors, ensure data has been accessed, goals are accomplishable.
+* Week 10: Present project to class and submit write-up by the end of the week.
 
 ## Discussion
 
