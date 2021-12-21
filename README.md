@@ -9,8 +9,13 @@ students will become familiar with a variety of data sources including those der
 
 Learning outcomes:
 
-* something 
-* something else
+* Improve Python skills
+* Learn how think computationally and statistically
+* Solve real-world problems using spatial analysis
+* Understand basic machine learning concepts for data science
+* Manage individual and group software development using version control
+* Collaborate on a group project
+* Communicate results of data science project orally and as short write-up
 
 ## Schedule
 
@@ -20,12 +25,12 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                     | **Project**                   |
 | ----------- |------------|-----------------------|---------------------------------------|-------------------------------|
 | 1           | Jan 3      |Introduction           |Getting started with Python and GitHub |                               | 
-| 2           | Jan 10     |Tables + vector data   |Census data + city stats               |                               | 
+| 2           | Jan 10     |Tables + vector data   |Census data               |                               | 
 | 3           | Jan 17     |Network data           |Walking distances                      |                               |
 | 4           | Jan 24     |Gridded data           |Remote sensing and climate reanalysis  |Submit project idea and outline| 
-| 5           | Jan 31     |Machine learning       |Land cover classification              |                               |
+| 5           | Jan 31     |Machine learning       |Three machine learning examples        |                               |
 | 6           | Feb 7      |Data management + version control |GitHub collaboration/project work  |Project milestone #1    |
-| 7           | Feb 14     |Accessing data + web scraping     |Predicting river discharge  |                               |
+| 7           | Feb 14     |Accessing data + web scraping     |Wildland-urban interface + wildfires |                      |
 | 8           | Feb 21     |Missing data + feature selection  |Wind farm placement or wildfire + air quality  |Project milestone #2   |
 | 9           | Feb 28     |Ethics and responsibility |No lab, work on project             |                               |
 | 10          | Mar 7      |Project presentations  |Project presentations                  |Project submission             |
