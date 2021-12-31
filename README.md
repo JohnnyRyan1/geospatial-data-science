@@ -45,7 +45,7 @@ An essential component of this course is the final project which provides an opp
 
 ## Discussion
 
-We will use [Slack](https://slack.com/) for most communication and discussion. Please join the course workspace (geospatialdat-xif4804.slack.com) with your UO email address. See Canvas announcement for invitation link. We recommend that you use the standalone desktop app rather than the web interface. 
+We will use [Slack](https://slack.com/) for most communication and discussion. Please join the course workspace with your UO email address. See Canvas announcement for invitation link. We recommend that you use the standalone desktop app rather than the web interface. 
 
 ## License 
 
