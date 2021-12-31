@@ -30,7 +30,7 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | 5           | Jan 31     | Machine learning      | Three machine learning examples        | Submit project ideas (Slack)   |
 | 6           | Feb 7      | Data/code management  | **Get started on project**             | Initialize project             |
 | 7           | Feb 14     | Data access           | Wildland-urban interface + wildfires   |                                |
-| 8           | Feb 21     | Missing data + feature selection  | **Project work**           | Project check-in               |
+| 8           | Feb 21     | Visualization         | **Project work**                       | Project check-in               |
 | 9           | Feb 28     | Ethics and responsibility | Wind farm placement or wildfire + air quality |                     |
 | 10          | Mar 7      | Project presentations     | Project presentations              | Submit project write-up        |
 
