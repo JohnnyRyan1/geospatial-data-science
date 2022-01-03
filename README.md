@@ -2,6 +2,12 @@
 
 Course materials for Geospatial Date Science Applications (GEOG 4/590) taught at the Department of Geography, University of Oregon
 
+**Instructor:** [Johnny Ryan](https://www.johnny-ryan.com/)
+
+**TA:** [Insang Song](https://sigmafelix.wixsite.com/mysite/)
+
+**Lecture:** Mondays at 14:00
+
 ## Overview
 
 This course introduces students to emerging geospatial data science methods for addressing important environmental challenges in the western USA. The course will be taught as a series of short lectures and longer computer labs in which students will learn how to use Python to process (e.g. resampling, manipulating, interpolating), analyze (e.g. machine learning), and visualize (e.g. plotting, mapping) geospatial data. Students will apply these newly developed skills to real world applications (e.g. water management, renewable energy, agriculture, hazards, and climate change). In doing so, students will become familiar with a variety of data sources including those derived from satellite remote sensing, climate models, weather stations, census bureau, crowdsourced maps, and GPS. The course will be best suited for students who already have some programming (e.g. CIS 122) and GIS (e.g. 481) experience. The skills developed during this course will be directly applicable to a career in (geospatial) data science.
@@ -29,9 +35,9 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | 4           | Jan 24     | Gridded data          | Remote sensing and climate reanalysis  |                                | 
 | 5           | Jan 31     | Machine learning      | Three machine learning examples        | Submit project ideas (Slack)   |
 | 6           | Feb 7      | Data/code management  | **Get started on project**             | Initialize project             |
-| 7           | Feb 14     | Data access           | Wildland-urban interface + wildfires   |                                |
+| 7           | Feb 14     | Data access           | Application 1                          |                                |
 | 8           | Feb 21     | Visualization         | **Project work**                       | Project check-in               |
-| 9           | Feb 28     | Ethics and responsibility | Wind farm placement or wildfire + air quality |                     |
+| 9           | Feb 28     | Ethics and responsibility | Application 2                      |                                |
 | 10          | Mar 7      | Project presentations     | Project presentations              | Submit project write-up        |
 
 ## Final project

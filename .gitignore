@@ -11,6 +11,7 @@ labs/lab3/cache
 *.pptx
 *.doc
 *.docx
+*.xlsx
 
 instructor-lecture-notes.txt
 instructor-lab-notes.txt
