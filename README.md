@@ -29,7 +29,7 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 
 | **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                      | **Project**                    |
 | ----------- |------------|-----------------------|----------------------------------------|--------------------------------|
-| 1           | Jan 3      | Introduction          | Getting started with Python and GitHub |                                | 
+| 1           | Jan 3      | [Introduction](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/lectures/01-introduction.pdf)          | [Getting started with Python and GitHub](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab1/01a_getting_started.ipynb) |                                | 
 | 2           | Jan 10     | Vector data           | Wildfire and Census data               |                                | 
 | 3           | Jan 17     | Network data          | Walking distances                      |                                |
 | 4           | Jan 24     | Gridded data          | Remote sensing and climate reanalysis  |                                | 
