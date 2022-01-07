@@ -30,10 +30,10 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | **Week**    |  **Date**  | **Lecture x 1 hour**  | **Lab x 2 hours**                      | **Project**                    |
 | ----------- |------------|-----------------------|----------------------------------------|--------------------------------|
 | 1           | Jan 3      | [Introduction](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/lectures/01-introduction.pdf)          | [Getting started with Python and GitHub](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab1/01a_getting_started.ipynb) |                                | 
-| 2           | Jan 10     | Vector data           | Wildfire and Census data               |                                | 
-| 3           | Jan 17     | Network data          | Walking distances                      |                                |
-| 4           | Jan 24     | Gridded data          | Remote sensing and climate reanalysis  |                                | 
-| 5           | Jan 31     | Machine learning      | Three machine learning examples        | Submit project ideas (Slack)   |
+| 2           | Jan 10     | Vector data           | [Wildfire and Census data](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab2/02_wildfires_in_lane_county.ipynb)               |                                | 
+| 3           | Jan 17     | Network data          | [Walking distances](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab3/03_walking_distances.ipynb)                      |                                |
+| 4           | Jan 24     | Gridded data          | [Remote sensing and climate reanalysis](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab4/04_gridded_data.ipynb)  |                                | 
+| 5           | Jan 31     | Machine learning      | [Three machine learning examples](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab5/05a_machine_learning_examples.ipynb)        | Submit project ideas (Slack)   |
 | 6           | Feb 7      | Data/code management  | **Get started on project**             | Initialize project             |
 | 7           | Feb 14     | Data access           | Application 1                          |                                |
 | 8           | Feb 21     | Visualization         | **Project work**                       | Project check-in               |
