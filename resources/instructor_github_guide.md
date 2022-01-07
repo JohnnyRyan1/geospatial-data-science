@@ -17,3 +17,7 @@ Switch to student repo
 `git checkout student_name/master`
 
 Run their scripts!
+
+Return to master repo
+
+`git checkout master`
