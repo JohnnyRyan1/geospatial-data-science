@@ -10,6 +10,6 @@ Add student repository as a remote
 
 Switch to student repo
 
-`git checkout ross/master`
+`git checkout student_name/master`
 
 Run their scripts!
