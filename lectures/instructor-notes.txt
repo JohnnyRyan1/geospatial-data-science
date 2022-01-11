@@ -30,15 +30,3 @@ https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/about/ho
 
 Hacking
 https://github.com/ICESAT-2HackWeek/learning-resources/blob/master/docs/projects/overview.md
-
-Lecture #6 Data management + version control
-Collaboration exercises
-Branching
-Revisit GitHub + quiz based on: https://swcarpentry.github.io/git-novice/
-https://swcarpentry.github.io/git-novice/guide/
-
-https://github.com/UW-GDA/gda_course_2021/tree/master/resources/project
-https://icesat-2hackweek.github.io/learning-resources/projects/example_workflow/
-https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/03.Git_and_GitHub/collaboration-exercise.ipynb
-https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials/blob/main/03.Git_and_GitHub/git-first-tasks.ipynb
-
