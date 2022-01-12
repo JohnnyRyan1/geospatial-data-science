@@ -13,4 +13,5 @@ dependencies:
     - jupyter       # Interactive notebooks
     - rasterio      # Read/write raster data
     - scikit-learn  # Machine learning
+    - xarray
 
