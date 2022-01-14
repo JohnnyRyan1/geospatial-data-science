@@ -1,40 +1,26 @@
+# Text files 
 schedule.doc
 syllabus.doc
-
-labs/lab3/data
-labs/lab5/data
 
 data/
 data_prep/
 
 labs/lab3/cache/
 
+# Instructor notes
 instructor-lecture-notes.txt
-instructor-lecture-notes.txt
+instructor-lab-notes.txt
 lectures/instructor-notes.txt
+github_guide.txt
 
+# File types
 *.DS_Store
-
+*-checkpoint.ipynb
 *.pptx
 *.doc
 *.docxs
 *.xlsx
 
-instructor-lecture-notes.txt
-instructor-lab-notes.txt
-github_guide.txt
-labs/lab4/instructor-notes.txt
-
-labs/lab1/.ipynb_checkpoints
-labs/lab2/.ipynb_checkpoints
-labs/lab3/.ipynb_checkpoints
-labs/lab4/.ipynb_checkpoints
-labs/lab5/.ipynb_checkpoints
-labs/lab6/.ipynb_checkpoints
-labs/lab7/.ipynb_checkpoints
-labs/lab8/.ipynb_checkpoints
-
-labs/lab2/scripts/
-
+# Answers
 labs/lab2/02_wildfires_in_lane_county_answers.ipynb
 
