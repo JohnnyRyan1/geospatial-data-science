@@ -11,5 +11,5 @@ dependencies:
     - spyder        # Scientific development environment
     - shapely       # Vector formats
     - jupyter       # Interactive notebooks
-    - rioxarray     # Geospatial xarray extension
+    - rasterio      # Read/write raster data
     - xarray        # N-D labeled arrays and datasets
