@@ -7,5 +7,4 @@ dependencies:
     - matplotlib    # 2D plotting library
     - numpy         # N-d array and numerics 
     - jupyter       # Interactive notebooks
-    - rasterio      # Read/write raster data
-    - xarray        # N-D labeled arrays and datasets
+    - rioxarray     # 
