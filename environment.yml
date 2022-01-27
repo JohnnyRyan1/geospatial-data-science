@@ -1,0 +1,20 @@
+name: gds
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8    # Python version 3.8
+    - geopandas     # Geospatial extension of pandas
+    - matplotlib    # 2D plotting library
+    - numpy         # N-d array and numerics 
+    - pandas        # Labeled data analysis
+    - jupyter       # Interactive notebooks
+    - cenpy         # Access Census data
+    - shapely       # Vector operations
+    - jupyterlab    # Web-based user interface for Project Jupyter
+    - osmnx         # Retrieve street networks from OpenStreetMap
+    - networkx      # Network analysis
+    - rioxarray     # Read/write gridded data
+    - scikit-learn  # Machine learning
+    - selenium      # Automated web browser interaction
+    - bs4           # Web scraping

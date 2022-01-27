@@ -7,4 +7,4 @@ dependencies:
     - matplotlib    # 2D plotting library
     - numpy         # N-d array and numerics 
     - jupyter       # Interactive notebooks
-    - rioxarray     # 
+    - rioxarray     # Read/write gridded data

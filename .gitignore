@@ -16,6 +16,7 @@ github_guide.txt
 # File types
 *.DS_Store
 *-checkpoint.ipynb
+*.ipynb_checkpoints
 *.pptx
 *.doc
 *.docxs
