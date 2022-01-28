@@ -7,6 +7,4 @@ dependencies:
     - matplotlib    # 2D plotting library
     - numpy         # N-d array and numerics 
     - pandas        # Labeled data analysis
-    - spyder        # Scientific development environment
     - jupyter       # Interactive notebooks
-    - pandoc        # Document converter
