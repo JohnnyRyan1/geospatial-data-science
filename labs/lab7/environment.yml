@@ -3,12 +3,11 @@ channels:
     - conda-forge
     - defaults
 dependencies:
-    - python=3.8    # Python version 3.8
-    - geopandas     # Geospatial extension of pandas
     - matplotlib    # 2D plotting library
+    - pandas        # Labelled table data
     - numpy         # N-d array and numerics 
-    - pandas        # Labeled data analysis
-    - spyder        # Scientific development environment
-    - shapely       # Vector formats
     - jupyter       # Interactive notebooks
-    - psycopg2      # PostgreSQL adapter
+    - folium        # Python wrapper for Leaflet.js for plotting interactive maps
+    - lxml          # XML and HTML processing
+    - selenium      # Automates browsers
+    - rioxarray     # Scientific datasets read/write
