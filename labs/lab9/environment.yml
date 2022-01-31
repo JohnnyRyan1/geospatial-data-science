@@ -1,4 +1,4 @@
-name: lab7
+name: lab9
 channels:
     - conda-forge
     - defaults
@@ -8,6 +8,3 @@ dependencies:
     - numpy         # N-d array and numerics 
     - jupyter       # Interactive notebooks
     - folium        # Python wrapper for Leaflet.js for plotting interactive maps
-    - lxml          # XML and HTML processing
-    - selenium      # Automates browsers
-    - rioxarray     # Read/write scientific datasets 

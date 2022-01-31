@@ -1,4 +1,4 @@
-## Lab 5b: Project ideas
+## Project ideas
 
 ### Objectives
 
@@ -15,6 +15,6 @@ You have several options:
 
 ### Task 1 (10 points):
 
-* Submit a project idea on the `projects` Slack channel.
+* Submit a project idea on the `final-projects` Slack channel.
 * Come to class ready to share your idea(s) in small groups and provide feedback to others in the next lab
 * If you see potential opportunities to work with other students, follow up with them on Slack!
