@@ -1,0 +1,13 @@
+name: lecture8
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib    # 2D plotting library
+    - pandas        # Labelled table data
+    - numpy         # N-d array and numerics 
+    - jupyter       # Interactive notebooks
+    - folium        # Python wrapper for Leaflet.js for plotting interactive maps
+    - rioxarray     # Read/write scientific datasets 
+    - bokeh         # Interactive plots
+    - cartopy       # Produce maps
