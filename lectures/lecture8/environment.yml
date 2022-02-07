@@ -9,5 +9,5 @@ dependencies:
     - jupyter       # Interactive notebooks
     - folium        # Python wrapper for Leaflet.js for plotting interactive maps
     - rioxarray     # Read/write scientific datasets 
-    - bokeh         # Interactive plots
+    - geopandas     # Spatial pandas
     - cartopy       # Produce maps
