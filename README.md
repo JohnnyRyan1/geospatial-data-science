@@ -39,7 +39,7 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | 6           | Feb 7      | [Code management](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture6/lecture-6.ipynb)  | [Collaborating on GitHub](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab6/lab6_demo.ipynb)          | [Initialize project](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab6/lab6_demo.ipynb)             |
 | 7           | Feb 14     | [Data access](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture7/lecture-7.ipynb)           | [Mountains and ski resorts](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab7/lab7_demo.ipynb)                          |                                |
 | 8           | Feb 21     | [Visualization](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture8/lecture-8.ipynb)         | Project work                | Project check-in               |
-| 9           | Feb 28     | Discussion.               | Project work                     |                                |
+| 9           | Feb 28     | Discussion                | Project work                     |                                |
 | 10          | Mar 7      | Project presentations     | Project presentations              | Submit project write-up        |
 
 ## Final project
