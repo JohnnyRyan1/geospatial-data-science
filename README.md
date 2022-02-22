@@ -1,6 +1,6 @@
 # Geospatial Data Science Applications 
 
-Course materials for Geospatial Date Science Applications (GEOG 4/590) taught at the Department of Geography, University of Oregon
+Course materials for Geospatial Data Science Applications (GEOG 4/590) taught at the Department of Geography, University of Oregon
 
 **Instructor:** [Johnny Ryan](https://www.johnny-ryan.com/)
 

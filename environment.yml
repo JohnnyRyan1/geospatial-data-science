@@ -9,12 +9,12 @@ dependencies:
     - numpy         # N-d array and numerics 
     - pandas        # Labeled data analysis
     - jupyter       # Interactive notebooks
-    - cenpy         # Access Census data
+    - cenpy         # Access to Census data
     - shapely       # Vector operations
-    - jupyterlab    # Web-based user interface for Project Jupyter
-    - osmnx         # Retrieve street networks from OpenStreetMap
+    - jupyterlab    # Web-based IDE for Project Jupyter
+    - osmnx         # OpenStreetMap
     - networkx      # Network analysis
     - rioxarray     # Read/write gridded data
     - scikit-learn  # Machine learning
-    - selenium      # Automated web browser interaction
+    - selenium      # Automated web browsers
     - bs4           # Web scraping
