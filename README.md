@@ -1,10 +1,13 @@
-# Geospatial Data Science Applications 
+# Geospatial Data Science Applications
+
+> ⚠️ **These course materials are old and incomplete.**  A substantially revised and updated version can be found:   
+> 👉 [https://github.com/ryan-lab-duke/gds-applications-site](https://github.com/ryan-lab-duke/gds-applications-site)
 
 Course materials for Geospatial Data Science Applications (GEOG 4/590) taught at the Department of Geography, University of Oregon
 
-**Instructor:** [Johnny Ryan](https://www.johnny-ryan.com/)
+**Instructor:** Johnny Ryan
 
-**TA:** [Insang Song](https://sigmafelix.wixsite.com/mysite/)
+**TA:** TBD
 
 **Lecture:** Mondays at 14:00
 
